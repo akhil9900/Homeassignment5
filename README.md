@@ -1,9 +1,9 @@
 
 # Home Assignment 5 – CS5720 Neural Network and Deep Learning
 
-**Student Name:** [Your Name Here]  
+**Student Name:** Akhil Dondapati
 **Course:** CS5720 – Neural Network and Deep Learning  
-**Instructor:** [Instructor Name]  
+
 **University:** University of Central Missouri  
 **Semester:** Spring 2025  
 
@@ -45,7 +45,7 @@ python gan_mnist.py
 
 **Course:** CS5720 Neural Network and Deep Learning  
 **Assignment:** Home Assignment 5 – Question 4  
-**Student Name:** [Your Name Here]  
+
 **University:** University of Central Missouri  
 **Semester:** Spring 2025  
 
